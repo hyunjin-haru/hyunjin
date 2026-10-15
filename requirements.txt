@@ -5,3 +5,4 @@ duckduckgo-search
 python-dotenv
 requests
 yt-dlp
+beautifulsoup4
