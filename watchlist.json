@@ -1,0 +1,22 @@
+[
+  {
+    "keyword": "미국 기준금리 경기침체",
+    "domain": "FINANCE_CRYPTO_MARKETS",
+    "enabled": true
+  },
+  {
+    "keyword": "비트코인 반감기 유동성 사이클",
+    "domain": "FINANCE_CRYPTO_MARKETS",
+    "enabled": true
+  },
+  {
+    "keyword": "전고체 배터리 상용화 기술적 한계",
+    "domain": "TECH_SCIENCE_AI",
+    "enabled": true
+  },
+  {
+    "keyword": "한국의 무속신앙",
+    "domain": "AUTO",
+    "enabled": true
+  }
+]

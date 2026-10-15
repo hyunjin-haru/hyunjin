@@ -1,0 +1,6 @@
+﻿streamlit
+google-genai
+youtube-transcript-api
+duckduckgo-search
+python-dotenv
+requests
