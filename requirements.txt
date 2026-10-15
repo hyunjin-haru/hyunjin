@@ -4,3 +4,4 @@ youtube-transcript-api
 duckduckgo-search
 python-dotenv
 requests
+yt-dlp
